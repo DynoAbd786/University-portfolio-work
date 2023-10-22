@@ -1,0 +1,65 @@
+New game starting
+
+      0  1  2
+
+ 0    .  .  .
+ 1    .  .  .
+ 2    .  .  .
+
+Player X: Enter your move as row column values:
+
+      0  1  2
+
+ 0    .  .  .
+ 1    .  X  .
+ 2    .  .  .
+
+Player O: Enter your move as row column values:
+
+      0  1  2
+
+ 0    .  O  .
+ 1    .  X  .
+ 2    .  .  .
+
+Player X: Enter your move as row column values:
+
+      0  1  2
+
+ 0    .  O  X
+ 1    .  X  .
+ 2    .  .  .
+
+Player O: Enter your move as row column values:
+
+      0  1  2
+
+ 0    .  O  X
+ 1    .  X  .
+ 2    O  .  .
+
+Player X: Enter your move as row column values:
+
+      0  1  2
+
+ 0    .  O  X
+ 1    .  X  .
+ 2    O  .  X
+
+Player O: Enter your move as row column values:
+
+      0  1  2
+
+ 0    O  O  X
+ 1    .  X  .
+ 2    O  .  X
+
+Player X: Enter your move as row column values:
+
+      0  1  2
+
+ 0    O  O  X
+ 1    .  X  X
+ 2    O  .  X
+
+Player X has won
