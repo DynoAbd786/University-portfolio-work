@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="8.45.1">
+<file name="C:\Users\Abdua\OneDrive\Documents\Life Admin\Github Repository\Uni Repo\University-portfolio-work\Year 1\Object Orientated Programming\Coursework 1\src\main\java\ConvertToKML.java">
+</file>
+<file name="C:\Users\Abdua\OneDrive\Documents\Life Admin\Github Repository\Uni Repo\University-portfolio-work\Year 1\Object Orientated Programming\Coursework 1\src\main\java\ElevationPlot.java">
+</file>
+<file name="C:\Users\Abdua\OneDrive\Documents\Life Admin\Github Repository\Uni Repo\University-portfolio-work\Year 1\Object Orientated Programming\Coursework 1\src\main\java\GPSException.java">
+</file>
+<file name="C:\Users\Abdua\OneDrive\Documents\Life Admin\Github Repository\Uni Repo\University-portfolio-work\Year 1\Object Orientated Programming\Coursework 1\src\main\java\PlotApplication.java">
+</file>
+<file name="C:\Users\Abdua\OneDrive\Documents\Life Admin\Github Repository\Uni Repo\University-portfolio-work\Year 1\Object Orientated Programming\Coursework 1\src\main\java\Point.java">
+<error line="113" severity="warning" message="Line is longer than 100 characters (found 103)." source="com.puppycrawl.tools.checkstyle.checks.sizes.LineLengthCheck"/>
+</file>
+<file name="C:\Users\Abdua\OneDrive\Documents\Life Admin\Github Repository\Uni Repo\University-portfolio-work\Year 1\Object Orientated Programming\Coursework 1\src\main\java\Track.java">
+<error line="14" column="20" severity="warning" message="Name &apos;Points&apos; must match pattern &apos;^[a-z][a-zA-Z0-9]*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.MemberNameCheck"/>
+<error line="14" column="20" severity="warning" message="Variable &apos;Points&apos; must be private and have accessor methods." source="com.puppycrawl.tools.checkstyle.checks.design.VisibilityModifierCheck"/>
+<error line="35" severity="warning" message="Line is longer than 100 characters (found 139)." source="com.puppycrawl.tools.checkstyle.checks.sizes.LineLengthCheck"/>
+<error line="44" column="27" severity="warning" message="Don&apos;t use trailing comments." source="com.puppycrawl.tools.checkstyle.checks.TrailingCommentCheck"/>
+<error line="60" severity="warning" message="Line is longer than 100 characters (found 163)." source="com.puppycrawl.tools.checkstyle.checks.sizes.LineLengthCheck"/>
+<error line="101" severity="warning" message="Line is longer than 100 characters (found 130)." source="com.puppycrawl.tools.checkstyle.checks.sizes.LineLengthCheck"/>
+<error line="124" severity="warning" message="Line is longer than 100 characters (found 131)." source="com.puppycrawl.tools.checkstyle.checks.sizes.LineLengthCheck"/>
+<error line="142" severity="warning" message="Line is longer than 100 characters (found 109)." source="com.puppycrawl.tools.checkstyle.checks.sizes.LineLengthCheck"/>
+<error line="163" severity="warning" message="Line is longer than 100 characters (found 108)." source="com.puppycrawl.tools.checkstyle.checks.sizes.LineLengthCheck"/>
+</file>
+<file name="C:\Users\Abdua\OneDrive\Documents\Life Admin\Github Repository\Uni Repo\University-portfolio-work\Year 1\Object Orientated Programming\Coursework 1\src\main\java\TrackInfo.java">
+</file>
+</checkstyle>
