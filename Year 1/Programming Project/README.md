@@ -17,7 +17,7 @@ The file type EBC takes the image data from an EBU file and compresses the image
 - An example:
     - The pixel values, `30 30 30` are represented as `00011110 00011110 00011110` in the EBU file type
     - The pixel values for this EBU data are compressed so that the 1st byte inside the EBC data type becomes `11110111`, where "11110" is the data of the 1st EBU pixel value. the next value in the EBC type becomes `10111100`, where the 2nd EBU pixel value is the last 3 bits in the 1st EBC byte ("111"), plus the first 2 bits values inside the next EBC byte (10), lastly followed by the next 5 bits inside the 2nd EBC byte (11110), and a trailing 0 to finish the bit off
-    - Overall, the pixel values `30 30 30` -> (EBU file) `00011110 00011110 00011110` -> (EBC file) `11110|111 10|11110|0` (| represents the partition in the byte)
+    - Overall, the pixel values `30 30 30` -> (EBU file) `00011110 00011110 00011110` -> (EBC file) `11110|111 10|11110|0` (| represents the partition in the byte for each pixel value)
 
 I believe on average, the file is losslessly compressed by a factor of 5/8
 
